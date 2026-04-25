@@ -181,5 +181,5 @@ Distributed under the ISC License. See `LICENSE` for more information.
 <br />
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/your-username">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/your-username">Vivek</a>
 </div>
